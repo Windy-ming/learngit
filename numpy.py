@@ -18,9 +18,4 @@ arr3=arr.transpose((1,0,2))
 #print(arr3,'\n',arr4)个i他
 arr1=arr.T
 git jiaocheng
-Creating a new branch is quick
-
-12454
-
-
 
