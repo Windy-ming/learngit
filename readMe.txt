@@ -1,1 +1,0 @@
-ssh-keygen -t rsa -C "2236928904@qq.com"
